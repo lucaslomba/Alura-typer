@@ -22,3 +22,41 @@
 .campo-vermelho{
     border: 3px solid rgb(255, 0, 0);
 }
+
+.placar{
+    display: none;
+}
+
+.body{
+    overflow: scroll;
+}
+
+#erro{
+    color: red;
+    display: none;
+}
+
+#spinner{
+    display: none;
+}
+
+#frase-id{
+    width: 50px;
+}
+
+#botao-sync{
+    float: right;
+}
+
+.select-usuarios{
+    display: inline-block;
+}
+
+#usuarios{
+    display: block;
+}
+
+.selectize-input{
+    width: 150px;
+    vertical-align: middle;
+}
